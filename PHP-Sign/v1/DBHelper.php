@@ -1,5 +1,5 @@
 ﻿<?php
-	//初始化数据库相关参数
+	 //初始化数据库相关参数
 	 $dbms='mysql';     //数据库类型
 	 $host='localhost'; //数据库主机名
 	 $dbName='sign_in';    //使用的数据库
