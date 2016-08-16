@@ -1,5 +1,5 @@
 # Android-Sign
-# Android 实现签到功能前后台的一个小Demo
+# Android 实现签到功能的一个小Demo ps:附有前后端源码
 
 1.直接将压缩文件解压文件至服务器根目录
 2.注意在app内更改你的接口地址
