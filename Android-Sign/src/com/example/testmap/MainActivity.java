@@ -355,9 +355,9 @@ AMapLocationListener,OnCheckedChangeListener {
 			return;
 		}
 		if("签到".equals(str)){
-			url="http://m.softbrain.cn:81/sign_in/sign_in.php";
+			url="请填写你自己签到接口地址";
 		}else if("签退".equals(str)){
-			url="http://m.softbrain.cn:81/sign_in/sign_out.php";
+			url="请填写你自己签退接口地址";
 		}
 	    ProgressDialogUtils.show(true,false,this,"",str+"中...",0,str+"已取消");
 	}
